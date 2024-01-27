@@ -87,7 +87,7 @@ nav a:hover {
 .cta-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #abebb5;
+    background-color: #9e8059;
     color: rgb(19, 17, 17);
     text-decoration: none;
     border-radius: 5px;
@@ -128,7 +128,7 @@ nav a:hover {
 .contact {
     padding: 100px 0;
     text-align: center;
-    background-color: #4c3c32;
+    background-color: #7c675a;
     color: #ffffff;
 }
 
@@ -144,8 +144,8 @@ nav a:hover {
 
 footer {
     font-family: Arial, sans-serif;
-    background-color: #1a3412;
-    color: rgb(46, 172, 71);
+    background-color: #aa8816;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px 0;
 }
@@ -244,4 +244,9 @@ h2 {
 
 .pastry_item p {
     color: #000000;
+}
+
+.quick-links img {
+    max-width: 5%;
+    max-height: 5%;
 }
