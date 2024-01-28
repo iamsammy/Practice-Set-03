@@ -1,4 +1,4 @@
-It is all about a project-based named Violatte Cafe thaT is created by BSIT students at PSU.
+It is all about a project-based named Violatte Cafe that is created by BSIT students at PSU.
 
 IF YOU HAVE ANY QUESTIONS, KINDLY MESSAGE US ON OUR FACEBOOK PAGE.
 
