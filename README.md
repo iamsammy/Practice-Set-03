@@ -29,13 +29,6 @@ This last image shows the map of how and where the Violatte Cafe's location can 
 <img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/samantha.jpg" alt="author-pic>"
 style="border-radius: 50%; width: 150">
 
-<img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/shervielyn.jpg" alt="author-pic>"
-style="border-radius: 50%; width: 150">
-
-
-##### Insert Facebook and Github icons from this repository: 
-
-
 Name: Samantha Anne P. Quizon
 Email: samanthaquizon123@gmail.com
 
@@ -43,6 +36,7 @@ Email: samanthaquizon123@gmail.com
 <a href="https://www.facebook.com/samquizon20/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
 <a href="https://github.com/iamsammy"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Black/Github_black.png"></a>
 </div>
+
 
 Name: Shervielyn Jane Apolinar
 Email: shervielynjaneapolinar@gmail.com
@@ -52,6 +46,15 @@ Email: shervielynjaneapolinar@gmail.com
 <a href="https://www.facebook.com/shervielynjane.apolinar.7"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png"></a>
 <a href="https://github.com/shervielyn"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Black/Github_black.png"></a>
 </div>
+
+<img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/shervielyn.jpg" alt="author-pic>"
+style="border-radius: 50%; width: 150">
+
+
+
+
+
+
 
 
 
