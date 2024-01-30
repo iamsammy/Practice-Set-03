@@ -1,19 +1,21 @@
 # Project Description
 Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable space for coffee lovers to enjoy top-quality brews. The cafe prides itself on serving ethically-sourced, expertly-brewed coffee in a friendly and inviting atmosphere.
 
-## Features 
+# Features 
 •Home: 
     •Welcome message and introduction to the cafe.
     •Quick links to other sections of the website.
-<br>
+#
 •Menu: 
     •Listings of drinks and pastries offered with description and prices for each menu item.
-<br>
+#
 •About Us:
     •The story behind how Violatte Cafe is made.
+    <br>
     •Cafe's Mission
+    <br>
     •An introduction to the cafe owners.
-<br>
+#
 •Contact 
     •Email address, address of the cafe, phone number, newsletter and contact form for customer's feedback.
 
