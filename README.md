@@ -26,11 +26,11 @@ This last image shows the map of how and where the Violatte Cafe's location can 
 
 #### About the Authors 
 
-<img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/samantha.jpg" alt="author-pic>
-style="border-redius: 50%" width="150">
+<img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/samantha.jpg" alt="author-pic>"
+style="border-radius: 50%; width: 150">
 
-<img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/shervielyn.jpg" alt="author-pic>
-style="border-redius: 50%" width="150">
+<img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/shervielyn.jpg" alt="author-pic>"
+style="border-radius: 50%; width: 150">
 
 
 ##### Insert Facebook and Github icons from this repository: 
