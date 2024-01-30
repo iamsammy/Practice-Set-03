@@ -3,11 +3,14 @@ Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
 
 # Features 
  •Home<br>
-    The Home page serves as the main landing page for the website. It typically includes an overview of the cafe
+    The Home page serves as the main landing page for the website. It typically includes an overview of the cafe.
+ 
  •Menu<br>
-    The Menu page showcases the variety of coffee and pastries available at Violatte Cafe. Each menu item is  accompanied by a description, pricing, and an image.<br>
+    The Menu page showcases the variety of coffee and pastries available at Violatte Cafe. Each menu item is  accompanied by a description, pricing, and an image.
+ 
  •About Us<br>
     The About Us page provides background information about Violatte Cafe. It includes details about the cafe's history, mission, and about the owners/team of the cafe.
+ 
  •Contact<br>
     The Contact page enables customers to get in touch with Violatte Cafe. It includes contact information such as the cafe's address, phone number, email, and social media links.
 
