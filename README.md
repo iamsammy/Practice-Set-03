@@ -26,23 +26,24 @@ This last image shows the map of how and where the Violatte Cafe's location can 
 
 #### About the Authors 
 
+<img src="https://github.com/iamsammy" alt="author-pic>
+style="border-redius: 50%" width="150">
 
-
-
+<img src="https://github.com/shervielyn" alt="author-pic>
+style="border-redius: 50%" width="150">
 
 
 ##### Insert Facebook and Github icons from this repository: 
 
-<img src="link" alt="author-pic>
-style="border-redius: 50%" width="150">
 
 Name: Samantha Anne P. Quizon
 Email: samanthaquizon123@gmail.com
 
 <div>
-<a href="https://www.facebook.com/samquizon20/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png"></a>
-<a href="https://github.com/iamsammy"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png"></a>
+<a href="https://www.facebook.com/samquizon20/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
+<a href="https://github.com/iamsammy"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Github.png"></a>
 </div>
+
 Name: Shervielyn Jane Apolinar
 Email: shervielynjaneapolinar@gmail.com
 
