@@ -11,7 +11,9 @@ VioLatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
 •Customer Service: We prioritize excellent customer service, ensuring every visitor has a delightful experience at our cafe.
 
 ### Screen Captures
-![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/img/Cafe%20Logo%202.png)
+![img][https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/img/Cafe%20Logo%202.png]
+
+
 
 
 
