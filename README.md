@@ -2,25 +2,12 @@
 Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable space for coffee lovers to enjoy top-quality brews. The cafe prides itself on serving ethically-sourced, expertly-brewed coffee in a friendly and inviting atmosphere.
 
 # Features 
-•Home: 
-    •Welcome message and introduction to the cafe.
-    •Quick links to other sections of the website.
+ •Home
+ •Menu
+ •About Us
+ •Contact 
 
-•Menu: 
-    •Listings of drinks and pastries offered with description and prices for each menu item.
-
-•About Us:
-    •The story behind how Violatte Cafe is made.
-    <br>
-    •Cafe's Mission
-    <br>s
-    •An introduction to the cafe owners.
-
-•Contact 
-    •Email address, address of the cafe, phone number, newsletter and contact form for customer's feedback.
-
-
-### Screen Captures
+# Screen Captures
 ![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output1.png)
 This screenshot image of Violatte Cafe is its home page together with the introduction logo that shows how users can be welcomed when they navigate the website.
 
@@ -34,13 +21,13 @@ The image above  shows the contact information of the Violatte Cafe and feedback
 
 This last image shows the map of how and where the Violatte Cafe's location can be found immediately.
 
-#### About the Authors 
+# About the Authors 
 
 <img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/samantha.jpg" alt="author-pic>"
 style="border-radius: 50%; width: 150">
 
-Name: Samantha Anne P. Quizon
-Email: samanthaquizon123@gmail.com
+<b>Name: Samantha Anne P. Quizon
+Email: samanthaquizon123@gmail.com</b>
 
 <div>
 <a href="https://www.facebook.com/samquizon20/"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
@@ -51,8 +38,8 @@ Email: samanthaquizon123@gmail.com
 <img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/shervielyn.jpg" alt="author-pic>"
 style="border-radius: 50%; width: 150">
 
-Name: Shervielyn Jane Apolinar
-Email: shervielynjaneapolinar@gmail.com
+<b>Name: Shervielyn Jane Apolinar
+Email: shervielynjaneapolinar@gmail.com</b>
 
 <div>
 <a href="https://www.facebook.com/shervielynjane.apolinar.7"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png"></a>
