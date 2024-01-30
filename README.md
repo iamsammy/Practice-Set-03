@@ -27,6 +27,7 @@ This last image shows the map of how and where the Violatte Cafe's location can 
 style="border-radius: 50%; width: 150">
 
 <b>Name: Samantha Anne P. Quizon
+<br>
 Email: samanthaquizon123@gmail.com</b>
 
 <div>
@@ -39,6 +40,7 @@ Email: samanthaquizon123@gmail.com</b>
 style="border-radius: 50%; width: 150">
 
 <b>Name: Shervielyn Jane Apolinar
+<br>
 Email: shervielynjaneapolinar@gmail.com</b>
 
 <div>
