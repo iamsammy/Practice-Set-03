@@ -1,6 +1,9 @@
-It is all about a project-based named Violatte Cafe that is created by BSIT students at PSU.
+# Project Description
+VioLatte Cafe is a cozy and welcoming coffee shop that provides a comfortable space for coffee lovers to enjoy top-quality brews. The cafe prides itself on serving ethically-sourced, expertly-brewed coffee in a friendly and inviting atmosphere.
 
-IF YOU HAVE ANY QUESTIONS, KINDLY MESSAGE US ON OUR FACEBOOK PAGE.
+## Features 
 
-CREATED BY: SHERVIELYN JANE APOLINAR & SAMANTHA ANNE QUIZON, from BSIT3-B1.
+
+
+
 
