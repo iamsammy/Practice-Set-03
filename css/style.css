@@ -5,9 +5,14 @@ body, h1, h2, h3, p, ul, li {
 }
 
 body {
-    font-family: cursive, handwriting;
     background-color: #f5d4f1;
     color: #381a09;
+      font-family: cursive, handwriting;
+      background-image: url('https://i.pinimg.com/564x/1e/f1/ee/1ef1eeb25b580521dd0618754cf954a4.jpg');
+      background-size : auto 90%;
+      background-position: center;
+      background-repeat: no-repeat;
+ 
 }
 
 header {
