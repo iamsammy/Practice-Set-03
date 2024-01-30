@@ -18,13 +18,13 @@ Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
 ![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/image/output1.png)
 This screenshot image of Violatte Cafe is its home page together with the introduction logo that shows how users can be welcomed when they navigate the website.
 
-![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output2.png)
+![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/image/output2.png)
 This image shows the owner and c0-owner of the Violatte Cafe. 
 
-![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output3.png)
+![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/image/output3.png)
 The image above  shows the contact information of the Violatte Cafe and feedback form for the customers.
 
-![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output4.png)
+![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/image/output4.png)
 This last image shows the map of how and where the Violatte Cafe's location can be found immediately.
 
 # About the Authors 
