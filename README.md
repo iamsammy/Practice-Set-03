@@ -15,7 +15,7 @@ Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
     The Contact page enables customers to get in touch with Violatte Cafe. It includes contact information such as the cafe's address, phone number, email, and social media links.
 
 # Screen Captures
-![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output1.png)
+![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/master/image/output1.png)
 This screenshot image of Violatte Cafe is its home page together with the introduction logo that shows how users can be welcomed when they navigate the website.
 
 ![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output2.png)
