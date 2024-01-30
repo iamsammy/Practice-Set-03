@@ -1,0 +1,265 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: cursive, handwriting;
+    background-color: #f5d4f1;
+    color: #381a09;
+}
+
+header {
+    background-color:#e4a9cc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 150px;
+}
+
+.Logo1 img {
+    max-width: 250px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #4c3c32;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #7e685b;
+}
+
+.hero {
+    text-align: center;
+    padding: 90px 0;
+    background-image: url('hero-bg.jpg');
+    background-size: cover;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4c3c32;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #7e685b;
+}
+#section{
+    padding: 25px 0 25px 0;
+    text-align: center;
+    font-size: 2rem;
+    font-family: verdana;
+}
+#menu_row{
+    display: flex;
+    padding: 0 100px 0 100px;
+}
+#menu_col{
+    box-shadow: 2px 2px 2px #bbb;
+    border:1px solid #bbb;
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    flex: 1;
+} 
+#menu_col h2{
+background-color: #EAD196;
+color: #fff;
+text-align: center;
+padding: 5px;
+font-family: cursive;
+}
+#image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding:5px;
+    border: 2px solid orange;
+}
+#image img{
+    width:100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit:cover;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+}
+
+
+
+.about {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #E2C799;
+}
+
+.about h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #f5d4f1;
+    color: black;
+}
+
+.contact h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.contact p {
+    font-size: 18px;
+    margin-bottom: 40px;
+
+}
+footer {
+    background-color: #9983cf;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* Style for the contact information */
+  .contact-info {
+    margin-bottom: 20px;
+  }
+
+  .wrapper .button{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    margin: 0 5px;
+    overflow: hidden;
+    background: white;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover{
+    width: 200px;
+  }
+  .wrapper .button .icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:nth-child(1):hover .icon{
+    background: #4267B2;
+  }
+  .wrapper .button:nth-child(2):hover .icon{
+    background: #1DA1F2;
+  }
+  .wrapper .button:nth-child(3):hover .icon{
+    background: #E1306C;
+  }
+  .wrapper .button:nth-child(4):hover .icon{
+    background: #333;
+  }
+  .wrapper .button:nth-child(5):hover .icon{
+    background: #ff0000;
+  }
+  .wrapper .button .icon i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover .icon i{
+    color: #fff;
+  }
+  .wrapper .button span{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-left: 10px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:nth-child(1) span{
+    color: #4267B2;
+  }
+  .wrapper .button:nth-child(2) span{
+    color: #1DA1F2;
+  }
+  .wrapper .button:nth-child(3) span{
+    color: #E1306C;
+  }
+  .wrapper .button:nth-child(4) span{
+    color: #333;
+  }
+  .wrapper .button:nth-child(5) span{
+    color: #ff0000;
+  }
+  .newsletter-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .newsletter-form input[type="email"],
+  .newsletter-form button {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+  }
+
+  .newsletter-form input[type="email"] {
+    width: 200px;
+  }
+
+  .newsletter-form button {
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+  }

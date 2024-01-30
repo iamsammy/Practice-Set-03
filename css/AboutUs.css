@@ -1,0 +1,133 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: cursive, handwriting;
+    background-size: auto 90%;
+    color: #381a09;
+}
+
+header {
+    background-color: #e4a9cc;
+    box-shadow: 0 2px 5px rgba(249, 241, 241, 0.985);
+    padding: 20px;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 150px;
+}
+
+.Logo1 img {
+    max-width: 250px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.about {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #f5d4f1;
+}
+
+.about h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+nav a {
+    text-decoration: none;
+    color: #4c3c32;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #7e685b;
+}
+h1{
+text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 125px;
+}
+.team-member img {
+    width: 150px; 
+    height: auto; 
+}
+.member img {
+    width: 170px; 
+    height: auto; 
+}
+  .mission h2{
+    text-align: center;
+}
+ .hero {
+        text-align: center;
+        padding: 150px 0;
+        background-image: url('hero-bg.jpg');
+        background-size: cover;
+        color: rgb(11, 11, 11);
+    }
+    
+    .hero h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    
+    .hero p {
+        font-size: 18px;
+        margin-bottom: 40px;
+  }
+/* CONTACT */
+ .contact {
+    padding: 100px 0;
+    text-align: center;
+    background-color: #e5b0df;
+    color: #ffffff;
+}
+
+.contact h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.contact p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+button[type="submit"] {
+    background-color: rgb(162, 43, 43);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+footer {
+    font-family: Arial, sans-serif;
+    background-color: #9983cf;
+    color: #e8dde6;
+    text-align: center;
+    padding: 20px 0;
+  }
