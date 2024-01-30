@@ -3,20 +3,19 @@ Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
 
 ## Features 
 •Home: 
-    ○Welcome message and introduction to the cafe.
+    •Welcome message and introduction to the cafe.
+    •Quick links to other sections of the website.
 <br>
-    ○Quick links to other sections of the website.
-<br>
-•Menu:
-    ○Listings of drinks and pastries offered with description and prices for each menu item.
+•Menu: 
+    •Listings of drinks and pastries offered with description and prices for each menu item.
 <br>
 •About Us:
-    ○The story behind how Violatte Cafe is made.
-    ○Cafe's Mission
-    ○An introduction to the cafe owners.
+    •The story behind how Violatte Cafe is made.
+    •Cafe's Mission
+    •An introduction to the cafe owners.
 <br>
 •Contact 
-    ○Email address, address of the cafe, phone number, newsletter and contact form for customer's feedback.
+    •Email address, address of the cafe, phone number, newsletter and contact form for customer's feedback.
 
 
 ### Screen Captures
