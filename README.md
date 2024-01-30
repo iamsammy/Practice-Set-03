@@ -11,20 +11,21 @@ VioLatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
 •Customer Service: We prioritize excellent customer service, ensuring every visitor has a delightful experience at our cafe.
 
 ### Screen Captures
-![img](image\output1.png)
+![img](.\image\output1.png)
 This screenshot image of Violatte Cafe is its home page together with the introduction logo that shows how users can be welcomed when they navigate the website.
 
-![img](image\output2.png)
+![img](.\image\output2.png)
 This image shows the owner and c0-owner of the Violatte Cafe. 
 
-![img](image\output3.png)
+![img](.\image\output3.png)
 The image above  shows the contact information of the Violatte Cafe and feedback form for the customers.
 
-![img](image\output4.png)
+![img](.\image\output4.png)
 
 This last image shows the map of how and where the Violatte Cafe's location can be found immediately.
 
-#### About the Authors
+#### About the Authors 
+
 
 
 
