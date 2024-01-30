@@ -26,8 +26,7 @@ This last image shows the map of how and where the Violatte Cafe's location can 
 <img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/samantha.jpg" alt="author-pic>"
 style="border-radius: 50%; width: 150">
 
-<b>Name: Samantha Anne P. Quizon
-<br>
+<b>Name: Samantha Anne P. Quizon<br>
 Email: samanthaquizon123@gmail.com</b>
 
 <div>
@@ -39,8 +38,7 @@ Email: samanthaquizon123@gmail.com</b>
 <img src="https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/dd245537c9bb156a2e75b3ebca4afc3724f62c11/img/shervielyn.jpg" alt="author-pic>"
 style="border-radius: 50%; width: 150">
 
-<b>Name: Shervielyn Jane Apolinar
-<br>
+<b>Name: Shervielyn Jane Apolinar<br>
 Email: shervielynjaneapolinar@gmail.com</b>
 
 <div>
