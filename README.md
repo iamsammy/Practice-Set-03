@@ -4,6 +4,7 @@ Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable sp
 ## Features 
 •Home: 
     ○Welcome message and introduction to the cafe.
+<br>
     ○Quick links to other sections of the website.
 <br>
 •Menu:
