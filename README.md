@@ -18,7 +18,6 @@ This image shows the owner and c0-owner of the Violatte Cafe.
 The image above  shows the contact information of the Violatte Cafe and feedback form for the customers.
 
 ![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output4.png)
-
 This last image shows the map of how and where the Violatte Cafe's location can be found immediately.
 
 # About the Authors 
@@ -45,18 +44,4 @@ Email: shervielynjaneapolinar@gmail.com</b>
 <a href="https://www.facebook.com/shervielynjane.apolinar.7"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png"></a>
 <a href="https://github.com/shervielyn"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Black/Github_black.png"></a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
