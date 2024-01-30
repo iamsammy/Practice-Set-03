@@ -1,5 +1,5 @@
 # Project Description
-Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable space for coffee lovers to enjoy top-quality brews. The cafe prides itself on serving ethically-sourced, expertly-brewed coffee in a friendly and inviting atmosphere.
+Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable space for coffee lovers to enjoy top-quality brews. With dedication in serving high-quality, thoughtfully selected coffee in a friendly and inviting atmosphere. Violatte Cafe aims to create a warm and inviting environment where customers can relax, socialize, and savor their coffee experience.
 
 # Features 
  •Home<br>
