@@ -2,13 +2,21 @@
 Violatte Cafe is a cozy and welcoming coffee shop that provides a comfortable space for coffee lovers to enjoy top-quality brews. The cafe prides itself on serving ethically-sourced, expertly-brewed coffee in a friendly and inviting atmosphere.
 
 ## Features 
-•Quality Coffee: We serve top-notch coffee, carefully brewed from ethically sourced beans.
+•Home: 
+    ○Welcome message and introduction to the cafe.
+    ○Quick links to other sections of the website.
 <br>
-•Cozy Atmosphere: Our cafe provides a warm and inviting environment for customers to relax and enjoy their coffee.
+•Menu:
+    ○Listings of drinks and pastries offered with description and prices for each menu item.
 <br>
-•Community Focus: We aim to foster a sense of community, making our cafe a hub for coffee enthusiasts to connect and share their love for coffee.
+•About Us:
+    ○The story behind how Violatte Cafe is made.
+    ○Cafe's Mission
+    ○An introduction to the cafe owners.
 <br>
-•Customer Service: We prioritize excellent customer service, ensuring every visitor has a delightful experience at our cafe.
+•Contact 
+    ○Email address, address of the cafe, phone number, newsletter and contact form for customer's feedback.
+
 
 ### Screen Captures
 ![img](https://github.com/iamsammy/violatte-cozycup-cafe-boilerplate/blob/b1b8697f414ed236dd467a0744ddbe9d307c026f/image/output1.png)
